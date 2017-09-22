@@ -1,15 +1,15 @@
 # tbd-bot
 [tbd]-bot – open source CoreXY cnc multitool 
 
-(this is a work in progress!)
+(this is a work in progress! files might be incomplete and there is no instructions available yet...)
 
 
 Find a (crude) rendering [here](tbd-bot-assembly-rendering.PNG)
 and a (not 100% correct) explosion drawing [here](tbd-bot-assembly-explosion-v0.png)!
 
 
-Mechanics: V-Slot aluminium extrusions and 3d-printed parts
+Mechanics: V-Slot aluminium extrusions (source for [EU](http://www.ratrig.com/) / [US/Canada](http://openbuildspartstore.com)) and 3d-printed parts
 
-Electronics: NEMA17 Steppers, Smoothieboard
+Electronics: NEMA17 Steppers, [Smoothieboard](http://smoothieware.org/getting-smoothieboard)
 
-Software: LaserWeb3/LaserWeb4 + Smoothieware
+Software: [LaserWeb4](https://github.com/LaserWeb/LaserWeb4) + [Smoothieware](http://smoothieware.org/)
