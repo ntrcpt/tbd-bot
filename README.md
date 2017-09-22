@@ -4,8 +4,8 @@
 (this is a work in progress! files might be incomplete and there is no instructions available yet...)
 
 
-Find a (crude) rendering [here](tbd-bot-assembly-rendering.PNG)
-and a (not 100% correct) explosion drawing [here](tbd-bot-assembly-explosion-v0.png)!
+Find an image of the assembled tbd-bot [here](tbd-bot-v01.jpg)
+and an (not 100% correct) explosion drawing [here](tbd-bot-assembly-explosion-v0.png)!
 
 
 Mechanics: V-Slot aluminium extrusions (source for [EU](http://www.ratrig.com/) / [US/Canada](http://openbuildspartstore.com)) and 3d-printed parts
